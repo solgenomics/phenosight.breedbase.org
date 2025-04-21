@@ -1,1 +1,0 @@
-perl db/run_all_patches.pl -u postgres -p postgres -h breedbase_db -d breedbase -e admin
